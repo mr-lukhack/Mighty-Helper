@@ -44,6 +44,8 @@ Ideal para conferencias, clases, reuniones y presentaciones que necesitan un toq
 ![MS Mighty Helper Logo](./images/DemoShow-4.png)
 ![MS Mighty Helper Logo](./images/DemoShow-5.png)
 ![MS Mighty Helper Logo](./images/DemoShow-6.png)
+![MS Mighty Helper Logo](./images/DemoShow-7.png)
+![MS Mighty Helper Logo](./images/DemoShow-8.png)
 ![MS Mighty Helper Logo](./images/icontray.png)
 
 ---
