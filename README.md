@@ -71,7 +71,7 @@ GitHub: https://github.com/mr-lukhack
 
 LinkedIn: https://www.linkedin.com/in/lukhack/
 
-Email: picateclas@pronton.me
+Email: picateclas @ pronton .me
 
 ¡Controla tus presentaciones como un pro y deja que tus manos hablen por ti! 🙌
 
