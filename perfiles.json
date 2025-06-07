@@ -1,0 +1,44 @@
+{
+  "Perfil por Defecto": {
+    "next": [0, 1, 1, 0, 0],
+    "prev": [0, 1, 0, 0, 1],
+    "start": [1, 1, 1, 1, 1],
+    "end": [0, 0, 0, 0, 0],
+    "start_from_beginning": [0, 1, 0, 0, 0],
+    "iconos": {
+      "next": "➡️",
+      "prev": "⬅️",
+      "start": "▶️",
+      "end": "⏹️",
+      "start_from_beginning": "⏮️"
+    }
+  },
+  "Perfil Profesional": {
+    "next": [1, 1, 1, 1, 1],
+    "prev": [0, 1, 1, 1, 1],
+    "start": [1, 1, 1, 1, 1],
+    "end": [0, 0, 0, 0, 0],
+    "start_from_beginning": [1, 1, 1, 1, 1],
+    "iconos": {
+      "next": "✋ Mano abierta con dedos juntos",
+      "prev": "✋ Mano abierta pero con 4 dedos (pulgar recogido)",
+      "start": "🖐️ Mano completamente abierta",
+      "end": "✊ Puño cerrado",
+      "start_from_beginning": "🤚 Mano abierta pero girada (palma hacia ti)"
+    }
+  },
+  "Perfil Informal": {
+    "next": [0, 1, 0, 0, 0],
+    "prev": [0, 0, 0, 0, 1],
+    "start": [1, 1, 1, 1, 1],
+    "end": [0, 0, 0, 0, 0],
+    "start_from_beginning": [1, 1, 0, 0, 1],
+    "iconos": {
+      "next": "👆 Solo índice arriba",
+      "prev": "🤙 Meñique arriba (sin pulgar)",
+      "start": "✋ Mano abierta",
+      "end": "✊ Puño cerrado",
+      "start_from_beginning": "🖖 Vulcan Salute"
+    }
+  }
+}
