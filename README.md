@@ -1,6 +1,6 @@
 # 🚀 MS Mighty Helper
  
-![MS Mighty Helper Logo](mighty.png)
+![MS Mighty Helper Logo](./images/mightyRM.png)
 
 > **El asistente definitivo para controlar tus presentaciones con gestos naturales y sin complicaciones.**
 
