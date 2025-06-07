@@ -1,6 +1,6 @@
 # 🚀 MS Mighty Helper
  
-![MS Mighty Helper Logo](mighty.png)
+![MS Mighty Helper Logo](./images/mightyRM.png)
 
 > **El asistente definitivo para controlar tus presentaciones con gestos naturales y sin complicaciones.**
 
@@ -38,12 +38,18 @@ Ideal para conferencias, clases, reuniones y presentaciones que necesitan un toq
 
 ## 📸 Capturas
 
-![Demo de uso](https://user-images.githubusercontent.com/tu_usuario/aqui-demo.gif)
+![MS Mighty Helper Logo](./images/DemoShow-1.png)
+![MS Mighty Helper Logo](./images/DemoShow-2.png)
+![MS Mighty Helper Logo](./images/DemoShow-3.png)
+![MS Mighty Helper Logo](./images/DemoShow-4.png)
+![MS Mighty Helper Logo](./images/DemoShow-5.png)
+![MS Mighty Helper Logo](./images/DemoShow-6.png)
+![MS Mighty Helper Logo](./images/icontray.png)
 
 ---
 ## 🚀 Binario Compilado para uso rápido
 
-
+https://github.com/mr-lukhack/Mighty-Helper/releases/tag/ReleaseCandidate
 
 ## 🚀 Instalación ( Pronto se liberará el código de la versión Free )
 
@@ -71,7 +77,7 @@ GitHub: https://github.com/mr-lukhack
 
 LinkedIn: https://www.linkedin.com/in/lukhack/
 
-Email: picateclas@pronton.me
+Email: picateclas @ pronton .me
 
 ¡Controla tus presentaciones como un pro y deja que tus manos hablen por ti! 🙌
 
