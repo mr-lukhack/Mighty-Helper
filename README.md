@@ -1,4 +1,4 @@
-# 🚀 MS Mighty Helper
+# 🚀 Mighty Helper
  
 ![MS Mighty Helper Logo](./images/mightyRM.png)
 
@@ -6,9 +6,9 @@
 
 ---
 
-## 🎯 ¿Qué es MS Mighty Helper?
+## 🎯 ¿Qué es Mighty Helper?
 
-MS Mighty Helper es una **herramienta inteligente y elegante** que te permite controlar tus presentaciones en PowerPoint (y otras apps compatibles) usando solo la cámara y **gestos de la mano**. Olvídate del clicker, ratón o teclado: ¡mueve tu mano y controla tus diapositivas de forma natural y profesional!
+Mighty Helper es una **herramienta inteligente y elegante** que te permite controlar tus presentaciones en PowerPoint (y otras apps compatibles) usando solo la cámara y **gestos de la mano**. Olvídate del clicker, ratón o teclado: ¡mueve tu mano y controla tus diapositivas de forma natural y profesional!
 
 Ideal para conferencias, clases, reuniones y presentaciones que necesitan un toque tecnológico sin complicaciones.
 
