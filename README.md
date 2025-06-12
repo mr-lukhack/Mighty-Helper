@@ -81,6 +81,6 @@ LinkedIn: https://www.linkedin.com/in/lukhack/
 
 Email: picateclas @ pronton .me
 
-¡Controla tus presentaciones como un pro y deja que tus manos hablen por ti! 🙌
+¡Controla tus presentaciones y el navegador sin esfuerzo como un pro y deja que tus manos hablen por ti! 🙌
 
 Hecho con ❤ y código limpio por Lukdev
